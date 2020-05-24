@@ -1,2 +1,3 @@
 # captcha-extension
- Extension for captchas
+
+An extension that can solve captchas with the click of a button
