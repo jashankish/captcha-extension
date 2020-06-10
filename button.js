@@ -21,5 +21,4 @@ document.getElementById("set").onclick = function() {
       chrome.tabs.executeScript(arrayOfTabs[0].id, {code: code});
   });
   window.close();
-
 }
