@@ -12,6 +12,11 @@
       "default_popup": "button.html"
     },
 
+    "content_scripts": [
+     {
+     	"js": ["button.js"]
+     }
+    ],
 
     "manifest_version": 2
   }
